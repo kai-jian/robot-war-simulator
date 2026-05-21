@@ -1,0 +1,8 @@
+M by N: 5 5 
+Steps: 100
+Robots: 5
+GenericRobot Alpha random random
+ArmorBot Eagle random random
+HealthBot Fortress random random
+CarBot Shadow random random
+HideBot Ghost random random

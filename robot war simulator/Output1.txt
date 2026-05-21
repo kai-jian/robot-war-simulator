@@ -1,0 +1,1432 @@
+--- ROBOT BATTLE START!!! ---
+Loading battle configuration...
+Starting simulation with 5 robots
+
+--- Turn 1 ---
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Shadow at (9,6) begins action.
+ShadowWonk!
+gogogo and go to (9,7) Shadow ended action at (9,7).
+Eagle at (1,2) begins action.
+Eagle blink!
+armor defend damage!!!Eagle ended action at (1,2).
+Ghost at (5,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (5,5).
+Alpha at (6,8) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (6,8).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. A . . . . . . . . 
+. . . . . . . . . . 
+. . . E . . . . . . 
+. . . . . h . . . . 
+. . . . . . . . . . 
+. . . . . . . . . C 
+. . . . . . G . . . 
+. . . . . . . . . . 
+
+--- Turn 2 ---
+Eagle at (1,2) begins action.
+Eagle blink!
+armor defend damage!!!Eagle ended action at (1,2).
+Ghost at (5,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (5,6).
+Shadow at (9,7) begins action.
+ShadowWonk!
+gogogo and go to (9,6) Shadow ended action at (9,6).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Alpha at (6,8) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (6,8).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. A . . . . . . . . 
+. . . . . . . . . . 
+. . . E . . . . . . 
+. . . . . . . . . . 
+. . . . . h . . . C 
+. . . . . . . . . . 
+. . . . . . G . . . 
+. . . . . . . . . . 
+
+--- Turn 3 ---
+Shadow at (9,6) begins action.
+ShadowWonk!
+pls reverse, you have reach the dead ends
+Shadow ended action at (9,6).
+Ghost at (5,6) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (5,6).
+Eagle at (1,2) begins action.
+Eagle blink!
+armor defend damage!!!Eagle ended action at (1,2).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Alpha at (6,8) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (6,8).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. A . . . . . . . . 
+. . . . . . . . . . 
+. . . E . . . . . . 
+. . . . . . . . . . 
+. . . . . h . . . C 
+. . . . . . . . . . 
+. . . . . . G . . . 
+. . . . . . . . . . 
+
+--- Turn 4 ---
+Eagle at (1,2) begins action.
+Eagle blink!
+Eagle ended action at (0,3).
+Ghost at (5,6) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (4,5).
+Alpha at (6,8) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (6,8).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Shadow at (9,6) begins action.
+ShadowWonk!
+gogogo and go to (9,7) Shadow ended action at (9,7).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+A . . . . . . . . . 
+. . . E . . . . . . 
+. . . . h . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . C 
+. . . . . . G . . . 
+. . . . . . . . . . 
+
+--- Turn 5 ---
+Shadow at (9,7) begins action.
+ShadowWonk!
+gogogo and go to (9,8) Shadow ended action at (9,8).
+Ghost at (4,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (3,5).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Alpha at (6,8) begins action.
+Alpha is acting like thinking...
+Alpha upgraded movement!NOW I CAN RUN!!!!
+Alpha ended action at (6,8).
+Eagle at (0,3) begins action.
+Eagle blink!
+Eagle ended action at (0,3).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+A . . . . . . . . . 
+. . . E . . . . . . 
+. . . h . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . h . . C 
+. . . . . . . . . . 
+
+--- Turn 6 ---
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Eagle at (0,3) begins action.
+Eagle blink!
+Eagle ended action at (0,4).
+Ghost at (3,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (3,5).
+Shadow at (9,8) begins action.
+ShadowWonk!
+gogogo and go to (9,7) Shadow ended action at (9,7).
+Alpha at (6,8) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (6,9).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+A . . E . . . . . . 
+. . . h . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . C 
+. . . . . . . . . . 
+. . . . . . h . . . 
+
+--- Turn 7 ---
+Shadow at (9,7) begins action.
+ShadowWonk!
+pls reverse, you have reach the dead ends
+Shadow ended action at (9,7).
+Ghost at (3,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (2,4).
+Alpha at (6,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (6,9).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Eagle at (0,4) begins action.
+Eagle blink!
+Eagle ended action at (1,3).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. A . . . . . . . . 
+. . h E . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . C 
+. . . . . . . . . . 
+. . . . . . h . . . 
+
+--- Turn 8 ---
+Alpha at (6,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (6,9).
+Shadow at (9,7) begins action.
+ShadowWonk!
+pls reverse, you have reach the dead ends
+Shadow ended action at (9,7).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Ghost at (2,4) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (2,4).
+Eagle at (1,3) begins action.
+Eagle blink!
+Eagle ended action at (2,3).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . A . . . . . . . 
+. . h E . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . C 
+. . . . . . . . . . 
+. . . . . . h . . . 
+
+--- Turn 9 ---
+Shadow at (9,7) begins action.
+ShadowWonk!
+gogogo and go to (8,7) Shadow ended action at (8,7).
+Alpha at (6,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (6,9).
+Eagle at (2,3) begins action.
+Eagle blink!
+Eagle ended action at (3,2).
+Ghost at (2,4) begins action.
+Ghost haha i'm hidding!
+Ghost ended action at (2,4).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . A . . . . . . 
+. . . . . . . . . . 
+. . H E . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . C . 
+. . . . . . . . . . 
+. . . . . . h . . . 
+
+--- Turn 10 ---
+Shadow at (8,7) begins action.
+ShadowWonk!
+gogogo and go to (7,7) Shadow ended action at (7,7).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Alpha at (6,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (6,9).
+Ghost at (2,4) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (2,4).
+Eagle at (3,2) begins action.
+Eagle blink!
+Eagle ended action at (3,3).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . A . . . . . . 
+. . H E . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . C . . 
+. . . . . . . . . . 
+. . . . . . h . . . 
+
+--- Turn 11 ---
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Eagle at (3,3) begins action.
+Eagle blink!
+Eagle ended action at (4,3).
+Alpha at (6,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,9).
+Ghost at (2,4) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (2,5).
+Shadow at (7,7) begins action.
+ShadowWonk!
+gogogo and go to (7,8) Shadow ended action at (7,8).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . A . . . . . 
+. . . E . . . . . . 
+. . H . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . C . . 
+. . . . . h . . . . 
+
+--- Turn 12 ---
+Shadow at (7,8) begins action.
+ShadowWonk!
+gogogo and go to (7,7) Shadow ended action at (7,7).
+Ghost at (2,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (3,5).
+Eagle at (4,3) begins action.
+Eagle blink!
+Eagle ended action at (4,2).
+Alpha at (5,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,9).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . A . . . . . 
+. . . . . . . . . . 
+. . . E . . . . . . 
+. . . H . . . . . . 
+. . . . . . . . . . 
+. . . . . . . C . . 
+. . . . . . . . . . 
+. . . . . h . . . . 
+
+--- Turn 13 ---
+Ghost at (3,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (3,5).
+Shadow at (7,7) begins action.
+ShadowWonk!
+gogogo and go to (6,7) Shadow ended action at (6,7).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Eagle at (4,2) begins action.
+Eagle blink!
+Eagle ended action at (5,2).
+Alpha at (5,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,9).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . A . . . . 
+. . . . . . . . . . 
+. . . E . . . . . . 
+. . . H . . . . . . 
+. . . . . . . . . . 
+. . . . . . C . . . 
+. . . . . . . . . . 
+. . . . . h . . . . 
+
+--- Turn 14 ---
+Ghost at (3,5) begins action.
+Ghost haha i'm hidding!
+Ghost ended action at (3,5).
+Shadow at (6,7) begins action.
+ShadowWonk!
+gogogo and go to (6,6) Shadow ended action at (6,6).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Alpha at (5,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,9).
+Eagle at (5,2) begins action.
+Eagle blink!
+Eagle ended action at (4,1).
+. . . . . . . . . . 
+. . . . A . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . E . . . . . . 
+. . . H . . . . . . 
+. . . . . . C . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . h . . . . 
+
+--- Turn 15 ---
+Shadow at (6,6) begins action.
+ShadowWonk!
+gogogo and go to (6,7) Shadow ended action at (6,7).
+Alpha at (5,9) begins action.
+Alpha is acting like thinking...
+Alpha upgraded sensors! WOW NICE VISION!!
+Alpha ended action at (5,9).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Ghost at (3,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (3,5).
+Eagle at (4,1) begins action.
+Eagle blink!
+Eagle ended action at (3,1).
+. . . . . . . . . . 
+. . . A . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . E . . . . . . 
+. . . H . . . . . . 
+. . . . . . . . . . 
+. . . . . . C . . . 
+. . . . . . . . . . 
+. . . . . k . . . . 
+
+--- Turn 16 ---
+Alpha at (5,9) begins action.
+Alpha is acting like thinking...
+Alpha upgraded weapons! NEW WEAPON!!
+Alpha ended action at (5,9).
+Ghost at (3,5) begins action.
+Ghost haha i'm hidding!
+Ghost ended action at (3,5).
+Eagle at (3,1) begins action.
+Eagle blink!
+Eagle ended action at (4,2).
+Shadow at (6,7) begins action.
+ShadowWonk!
+gogogo and go to (7,7) Shadow ended action at (7,7).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . A . . . . . 
+. . . . . . . . . . 
+. . . E . . . . . . 
+. . . H . . . . . . 
+. . . . . . . . . . 
+. . . . . . . C . . 
+. . . . . . . . . . 
+. . . . . s . . . . 
+
+--- Turn 17 ---
+Ghost at (3,5) begins action.
+Ghost is acting like thinking...
+Ghost fires at Fortress
+wc ! Miss!
+Ghost ended action at (3,5).
+Alpha at (5,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,9).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Shadow at (7,7) begins action.
+ShadowWonk!
+gogogo and go to (8,7) Shadow ended action at (8,7).
+Eagle at (4,2) begins action.
+Eagle blink!
+Eagle ended action at (3,3).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . A . . . . . . 
+. . . E . . . . . . 
+. . . H . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . C . 
+. . . . . . . . . . 
+. . . . . s . . . . 
+
+--- Turn 18 ---
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Ghost at (3,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (3,5).
+Shadow at (8,7) begins action.
+ShadowWonk!
+gogogo and go to (7,7) Shadow ended action at (7,7).
+Alpha at (5,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,9).
+Eagle at (3,3) begins action.
+Eagle blink!
+Eagle ended action at (4,4).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . E A . . . . . 
+. . . H . . . . . . 
+. . . . . . . . . . 
+. . . . . . . C . . 
+. . . . . . . . . . 
+. . . . . s . . . . 
+
+--- Turn 19 ---
+Shadow at (7,7) begins action.
+ShadowWonk!
+gogogo and go to (7,6) Shadow ended action at (7,6).
+Alpha at (5,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,9).
+Eagle at (4,4) begins action.
+Eagle blink!
+Eagle ended action at (5,5).
+Ghost at (3,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (3,5).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . E . . . . . . 
+. . . H . A . . . . 
+. . . . . . . C . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . s . . . . 
+
+--- Turn 20 ---
+Eagle at (5,5) begins action.
+Eagle blink!
+Eagle ended action at (4,6).
+Shadow at (7,6) begins action.
+ShadowWonk!
+gogogo and go to (7,5) Shadow ended action at (7,5).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Alpha at (5,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (6,8).
+Ghost at (3,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (3,5).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . E . . . . . . 
+. . . H . . . C . . 
+. . . . A . . . . . 
+. . . . . . . . . . 
+. . . . . . s . . . 
+. . . . . . . . . . 
+
+--- Turn 21 ---
+Alpha at (6,8) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (6,9).
+Shadow at (7,5) begins action.
+ShadowWonk!
+gogogo and go to (7,6) Shadow ended action at (7,6).
+Eagle at (4,6) begins action.
+Eagle blink!
+Eagle ended action at (3,7).
+Ghost at (3,5) begins action.
+Ghost is acting like thinking...
+Ghost upgraded movement!NOW I CAN RUN!!!!
+Ghost ended action at (4,4).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . E H . . . . . 
+. . . . . . . . . . 
+. . . . . . . C . . 
+. . . A . . . . . . 
+. . . . . . . . . . 
+. . . . . . s . . . 
+
+--- Turn 22 ---
+Ghost at (4,4) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (4,4).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Shadow at (7,6) begins action.
+ShadowWonk!
+gogogo and go to (7,7) Shadow ended action at (7,7).
+Eagle at (3,7) begins action.
+Eagle blink!
+Eagle ended action at (4,6).
+Alpha at (6,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (6,9).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . E H . . . . . 
+. . . . . . . . . . 
+. . . . A . . . . . 
+. . . . . . . C . . 
+. . . . . . . . . . 
+. . . . . . s . . . 
+
+--- Turn 23 ---
+Alpha at (6,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (6,9).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Shadow at (7,7) begins action.
+ShadowWonk!
+gogogo and go to (7,8) Shadow ended action at (7,8).
+Ghost at (4,4) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (3,5).
+Eagle at (4,6) begins action.
+Eagle blink!
+Eagle ended action at (4,5).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . E . . . . . . 
+. . . H A . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . C . . 
+. . . . . . s . . . 
+
+--- Turn 24 ---
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Ghost at (3,5) begins action.
+Ghost is acting like thinking...
+Ghost fires at Eagle
+wc ! Miss!
+Ghost ended action at (3,5).
+Shadow at (7,8) begins action.
+ShadowWonk!
+gogogo and go to (7,9) Shadow ended action at (7,9).
+Eagle at (4,5) begins action.
+Eagle blink!
+Eagle ended action at (4,5).
+Alpha at (6,9) begins action.
+Alpha is acting like thinking...
+Alpha fires at Shadow
+wc ! Miss!
+Alpha ended action at (6,9).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . E . . . . . . 
+. . . H A . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . s C . . 
+
+--- Turn 25 ---
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Ghost at (3,5) begins action.
+Ghost is acting like thinking...
+Ghost upgraded sensors! WOW NICE VISION!!
+Ghost ended action at (3,5).
+Eagle at (4,5) begins action.
+Eagle blink!
+Eagle ended action at (4,5).
+Shadow at (7,9) begins action.
+ShadowWonk!
+gogogo and go to (7,8) Shadow ended action at (7,8).
+Alpha at (6,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (6,9).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . E . . . . . . 
+. . . H A . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . C . . 
+. . . . . . s . . . 
+
+--- Turn 26 ---
+Shadow at (7,8) begins action.
+ShadowWonk!
+gogogo and go to (7,9) Shadow ended action at (7,9).
+Eagle at (4,5) begins action.
+Eagle blink!
+Eagle ended action at (5,4).
+Ghost at (3,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (3,5).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Alpha at (6,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,9).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . E . A . . . . 
+. . . H . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . s . C . . 
+
+--- Turn 27 ---
+Eagle at (5,4) begins action.
+Eagle blink!
+Eagle ended action at (5,5).
+Shadow at (7,9) begins action.
+ShadowWonk!
+pls reverse, you have reach the dead ends
+Shadow ended action at (7,9).
+Alpha at (5,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,9).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Ghost at (3,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (3,5).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . E . . . . . . 
+. . . H . A . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . s . C . . 
+
+--- Turn 28 ---
+Shadow at (7,9) begins action.
+ShadowWonk!
+gogogo and go to (7,8) Shadow ended action at (7,8).
+Eagle at (5,5) begins action.
+Eagle blink!
+Eagle ended action at (4,5).
+Alpha at (5,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,8).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Ghost at (3,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (3,5).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . E . . . . . . 
+. . . H A . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . s . C . . 
+. . . . . . . . . . 
+
+--- Turn 29 ---
+Shadow at (7,8) begins action.
+ShadowWonk!
+gogogo and go to (7,7) Shadow ended action at (7,7).
+Ghost at (3,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (3,5).
+Alpha at (5,8) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (4,7).
+Eagle at (4,5) begins action.
+Eagle blink!
+Eagle ended action at (4,4).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . E A . . . . . 
+. . . H . . . . . . 
+. . . . . . . . . . 
+. . . . s . . C . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+
+--- Turn 30 ---
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Alpha at (4,7) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,6).
+Eagle at (4,4) begins action.
+Eagle blink!
+Eagle ended action at (4,4).
+Shadow at (7,7) begins action.
+ShadowWonk!
+gogogo and go to (7,6) Shadow ended action at (7,6).
+Ghost at (3,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (3,5).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . E A . . . . . 
+. . . H . . . . . . 
+. . . . . s . C . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+
+--- Turn 31 ---
+Ghost at (3,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (2,5).
+Alpha at (5,6) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,6).
+Shadow at (7,6) begins action.
+ShadowWonk!
+gogogo and go to (6,6) Shadow ended action at (6,6).
+Eagle at (4,4) begins action.
+Eagle blink!
+Eagle ended action at (3,5).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . E . . . . . . 
+. . H A . . . . . . 
+. . . . . s C . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+
+--- Turn 32 ---
+Alpha at (5,6) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,6).
+Shadow at (6,6) begins action.
+ShadowWonk!
+crashed Alphaand bomb!!
+gogogo and go to (5,6) Shadow ended action at (5,6).
+Eagle at (3,5) begins action.
+Eagle blink!
+Eagle ended action at (3,5).
+Ghost at (2,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (2,5).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . E . . . . . . 
+. . H A . . . . . . 
+. . . . . C . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+
+--- Turn 33 ---
+Ghost at (2,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (2,5).
+Shadow at (5,6) begins action.
+ShadowWonk!
+gogogo and go to (6,6) Shadow ended action at (6,6).
+Eagle at (3,5) begins action.
+Eagle blink!
+Eagle ended action at (4,4).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Alpha at (5,6) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,6).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . E A . . . . . 
+. . H . . . . . . . 
+. . . . . . C . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+
+--- Turn 34 ---
+Ghost at (2,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (2,5).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Eagle at (4,4) begins action.
+Eagle blink!
+Eagle ended action at (4,4).
+Shadow at (6,6) begins action.
+ShadowWonk!
+gogogo and go to (7,6) Shadow ended action at (7,6).
+Alpha at (5,6) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,6).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . E A . . . . . 
+. . H . . . . . . . 
+. . . . . . . C . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+
+--- Turn 35 ---
+Ghost at (2,5) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (1,4).
+Eagle at (4,4) begins action.
+Eagle blink!
+Eagle ended action at (5,4).
+Shadow at (7,6) begins action.
+ShadowWonk!
+gogogo and go to (7,7) Shadow ended action at (7,7).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Alpha at (5,6) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,6).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. H . E . A . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . C . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+
+--- Turn 36 ---
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Ghost at (1,4) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (0,4).
+Eagle at (5,4) begins action.
+Eagle blink!
+Eagle ended action at (6,4).
+Alpha at (5,6) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,6).
+Shadow at (7,7) begins action.
+ShadowWonk!
+gogogo and go to (6,7) Shadow ended action at (6,7).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+H . . E . . A . . . 
+. . . . . . . . . . 
+. . . . . s . . . . 
+. . . . . . C . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+
+--- Turn 37 ---
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Eagle at (6,4) begins action.
+Eagle blink!
+Eagle ended action at (5,5).
+Alpha at (5,6) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,6).
+Ghost at (0,4) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (0,4).
+Shadow at (6,7) begins action.
+ShadowWonk!
+gogogo and go to (7,7) Shadow ended action at (7,7).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+H . . E . . . . . . 
+. . . . . A . . . . 
+. . . . . s . . . . 
+. . . . . . . C . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+
+--- Turn 38 ---
+Shadow at (7,7) begins action.
+ShadowWonk!
+gogogo and go to (6,7) Shadow ended action at (6,7).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Alpha at (5,6) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,6).
+Ghost at (0,4) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (1,3).
+Eagle at (5,5) begins action.
+Eagle blink!
+Eagle ended action at (6,6).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. H . . . . . . . . 
+. . . E . . . . . . 
+. . . . . . . . . . 
+. . . . . s A . . . 
+. . . . . . C . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+
+--- Turn 39 ---
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Ghost at (1,3) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (0,3).
+Alpha at (5,6) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,7).
+Shadow at (6,7) begins action.
+ShadowWonk!
+gogogo and go to (6,8) Shadow ended action at (6,8).
+Eagle at (6,6) begins action.
+Eagle blink!
+Eagle ended action at (6,7).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+H . . . . . . . . . 
+. . . E . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . s A . . . 
+. . . . . . C . . . 
+. . . . . . . . . . 
+
+--- Turn 40 ---
+Alpha at (5,7) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (5,7).
+Eagle at (6,7) begins action.
+Eagle blink!
+Eagle ended action at (5,8).
+Ghost at (0,3) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (0,3).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Shadow at (6,8) begins action.
+ShadowWonk!
+gogogo and go to (6,7) Shadow ended action at (6,7).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+H . . . . . . . . . 
+. . . E . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . s C . . . 
+. . . . . A . . . . 
+. . . . . . . . . . 
+
+--- Turn 41 ---
+Alpha at (5,7) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (4,8).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Ghost at (0,3) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (0,3).
+Eagle at (5,8) begins action.
+Eagle blink!
+Eagle ended action at (5,8).
+Shadow at (6,7) begins action.
+ShadowWonk!
+gogogo and go to (5,7) Shadow ended action at (5,7).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+H . . . . . . . . . 
+. . . E . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . C . . . . 
+. . . . s A . . . . 
+. . . . . . . . . . 
+
+--- Turn 42 ---
+Shadow at (5,7) begins action.
+ShadowWonk!
+gogogo and go to (5,6) Shadow ended action at (5,6).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Eagle at (5,8) begins action.
+Eagle blink!
+Eagle ended action at (5,7).
+Alpha at (4,8) begins action.
+Alpha is acting like thinking...
+Alpha fires at Eagle
+Hits! Eagle deal thousand damage!!
+Alpha ended action at (4,8).
+Ghost at (0,3) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (0,3).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+H . . . . . . . . . 
+. . . E . . . . . . 
+. . . . . . . . . . 
+. . . . . C . . . . 
+. . . . . A . . . . 
+. . . . s . . . . . 
+. . . . . . . . . . 
+
+--- Turn 43 ---
+Ghost at (0,3) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (0,3).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Eagle at (5,7) begins action.
+Eagle blink!
+Eagle ended action at (6,6).
+Alpha at (4,8) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (3,9).
+Shadow at (5,6) begins action.
+ShadowWonk!
+gogogo and go to (5,5) Shadow ended action at (5,5).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+H . . . . . . . . . 
+. . . E . . . . . . 
+. . . . . C . . . . 
+. . . . . . A . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . s . . . . . . 
+
+--- Turn 44 ---
+Alpha at (3,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (3,9).
+Shadow at (5,5) begins action.
+ShadowWonk!
+gogogo and go to (5,6) Shadow ended action at (5,6).
+Ghost at (0,3) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (0,3).
+Eagle at (6,6) begins action.
+Eagle blink!
+Eagle ended action at (7,5).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+H . . . . . . . . . 
+. . . E . . . . . . 
+. . . . . . . A . . 
+. . . . . C . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . s . . . . . . 
+
+--- Turn 45 ---
+Shadow at (5,6) begins action.
+ShadowWonk!
+gogogo and go to (5,5) Shadow ended action at (5,5).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Alpha at (3,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (4,9).
+Ghost at (0,3) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (0,3).
+Eagle at (7,5) begins action.
+Eagle blink!
+Eagle ended action at (7,4).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+H . . . . . . . . . 
+. . . E . . . A . . 
+. . . . . C . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . s . . . . . 
+
+--- Turn 46 ---
+Alpha at (4,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (4,9).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Eagle at (7,4) begins action.
+Eagle blink!
+Eagle ended action at (8,5).
+Shadow at (5,5) begins action.
+ShadowWonk!
+gogogo and go to (4,5) Shadow ended action at (4,5).
+Ghost at (0,3) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (1,3).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. H . . . . . . . . 
+. . . E . . . . . . 
+. . . . C . . . A . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . s . . . . . 
+
+--- Turn 47 ---
+Eagle at (8,5) begins action.
+Eagle blink!
+Eagle ended action at (7,4).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Alpha at (4,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (4,9).
+Ghost at (1,3) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (0,3).
+Shadow at (4,5) begins action.
+ShadowWonk!
+gogogo and go to (4,6) Shadow ended action at (4,6).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+H . . . . . . . . . 
+. . . E . . . A . . 
+. . . . . . . . . . 
+. . . . C . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . s . . . . . 
+
+--- Turn 48 ---
+Ghost at (0,3) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (0,3).
+Shadow at (4,6) begins action.
+ShadowWonk!
+gogogo and go to (5,6) Shadow ended action at (5,6).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Eagle at (7,4) begins action.
+Eagle blink!
+Eagle ended action at (6,5).
+Alpha at (4,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (4,9).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+H . . . . . . . . . 
+. . . E . . . . . . 
+. . . . . . A . . . 
+. . . . . C . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . s . . . . . 
+
+--- Turn 49 ---
+Ghost at (0,3) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (0,2).
+Eagle at (6,5) begins action.
+Eagle blink!
+Eagle ended action at (6,4).
+Alpha at (4,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (4,9).
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Shadow at (5,6) begins action.
+ShadowWonk!
+gogogo and go to (5,5) Shadow ended action at (5,5).
+. . . . . . . . . . 
+. . . . . . . . . . 
+H . . . . . . . . . 
+. . . . . . . . . . 
+. . . E . . A . . . 
+. . . . . C . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . s . . . . . 
+
+--- Turn 50 ---
+Fortress at (3,4) begins action.
+Fortress blink!
+Fortressyour health is full
+Fortress ended action at (3,4).
+Eagle at (6,4) begins action.
+Eagle blink!
+Eagle ended action at (6,4).
+Shadow at (5,5) begins action.
+ShadowWonk!
+gogogo and go to (6,5) Shadow ended action at (6,5).
+Alpha at (4,9) begins action.
+Alpha is acting like thinking...
+Alpha ended action at (4,8).
+Ghost at (0,2) begins action.
+Ghost is acting like thinking...
+Ghost ended action at (0,3).
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+H . . . . . . . . . 
+. . . E . . A . . . 
+. . . . . . C . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . s . . . . . 
+. . . . . . . . . . 
+
+--- Simulation Complete ---
+
+Final Standings:
+----------------
+Alpha: Alive as SemiAutoBot (s) | Lives used: 0
+Eagle: Alive as ArmorBot (A) | Lives used: 0
+Fortress: Alive as HealthBot (E) | Lives used: 0
+Ghost: Alive as HideBot (H) | Lives used: 0
+Shadow: Alive as CarBot (C) | Lives used: 0
+--- BATTLE END! ---
